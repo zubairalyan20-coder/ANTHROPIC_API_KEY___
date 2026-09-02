@@ -1,0 +1,6 @@
+{
+  "name": "kestrel-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kestrel — a pocket AI agent, static frontend + serverless API proxy."
+}
