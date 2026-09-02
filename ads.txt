@@ -1,4 +1,2 @@
-# AdSense requires this file at your domain root to serve ads correctly.
-# Replace pub-XXXXXXXXXXXXXXXX below with your real AdSense publisher ID
-# (find it in AdSense under Account > Settings — it looks like pub-1234567890123456).
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2434161621863604"
+     crossorigin="anonymous"></script>
